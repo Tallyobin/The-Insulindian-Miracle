@@ -1,3 +1,4 @@
+```
 9. Which of the following is NOT describe about a structure?
    A. We can have pointers of type structures.
    B. Defining a structure is like defining a new data type.
@@ -109,6 +110,7 @@ Constructor is named the same as the class and don't have a data type*
     B. Maximum three
     C. Maximum five
   = D. More than one
+```
 
 
 
@@ -120,8 +122,7 @@ Constructor is named the same as the class and don't have a data type*
 
 
 
-
-
+```
 (a)
 (i) Account
 (ii) Public and it can be accessed by all.
@@ -160,14 +161,6 @@ cout << com1.fullname;
 cout << com1.year;
 cout << com1.cgpa;
 cout << com1.designation;
-
-
-
-
-
-
-
-
 
 
 
@@ -268,3 +261,4 @@ int main ( )
    Movie m1;
    m1.report;
 }
+```
