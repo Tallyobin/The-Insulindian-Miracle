@@ -1,4 +1,11 @@
 ```
+Why to use Files
+• Convenient way to deal large quantities of data.
+• Store data permanently (until file is deleted).
+• Avoid typing data into program multiple times.
+• Share data between programs.
+
+
 9. Which of the following is NOT describe about a structure?
    A. We can have pointers of type structures.
    B. Defining a structure is like defining a new data type.
